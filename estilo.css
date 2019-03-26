@@ -135,4 +135,7 @@ sup{
   select {
     width: 100%;
   }
+  #form-outer {
+   padding-bottom: 30px;
+  }
 }
