@@ -103,7 +103,7 @@ sup{
   padding-bottom: 10px;
 }
 
-@media screen and (max-width: 768px) {
+@media only screen and (max-width: 768px) {
 
     } {
   #logo{
@@ -118,7 +118,7 @@ sup{
   }
 }
 
-@media screen and (max-width: 520px){
+@media only screen and (max-width: 520px) {
 
     } {
   #logo{
