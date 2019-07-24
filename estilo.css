@@ -110,7 +110,7 @@ sup{
     float: center;
   }
   .input-field {
-    width: 100%;
+    width: 70%;;
   }  
   select {
     width: 90%;
@@ -132,7 +132,7 @@ sup{
     float: left;
   }
   .input-field {
-    width: 100%;
+    width: 70%;
     margin: 1px;
     margin-left: 10px;
   }
