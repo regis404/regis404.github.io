@@ -103,7 +103,9 @@ sup{
   padding-bottom: 10px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 768px) only screen and (max-device-width: 768px) {
+
+    } {
   #logo{
     width: 80%;
     float: center;
@@ -116,7 +118,9 @@ sup{
   }
 }
 
-@media screen and (max-width: 520px) {
+@media screen and (max-width: 520px) only screen and (max-device-width: 520px) {
+
+    } {
   #logo{
     width:80%;
     float: center;
