@@ -1,8 +1,6 @@
 # Github pages
 Teste para armazenamento de um formulario simples usando o github pages
 
-visualize o resultado no link abaixo:
-
-![Formulario](https://regis404.github.io/Cadastro.html)
+Clique ![Aqui](regis404.github.io/Cadastro.html) para visualizar o resultado:
 
 ![Preview](/PMsolutionPreview.PNG)
